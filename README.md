@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoy9800&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoy9800" /> </p>
 
-- 💬 Ask me about **React.js,Java,JavaScript,HTML,CSS,BootStrap,Node.js,Express.js,Next.js**
+- 💬**React.js,Java,JavaScript,HTML,CSS,BootStrap,Node.js,Express.js,Next.js**
 
 - 📫 How to reach me **sanjurudra4@gmail.com**
 
